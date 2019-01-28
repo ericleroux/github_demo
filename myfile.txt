@@ -1,2 +1,3 @@
 Ceci est un test git
 Une seconde ligne
+et de trois
